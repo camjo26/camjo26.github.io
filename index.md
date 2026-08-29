@@ -1,4 +1,11 @@
-Cam's github page
+---
+layout: default
+---
 
-| Mealz[mealz]
-Mealz(mealz)
+# Cam's apps
+
+## Apps
+
+- [Mealz](mealz/) - meal planning
+
+v1.0
