@@ -8,4 +8,4 @@ layout: default
 
 - <img class="app-icon" src="assets/icons/mealz.svg" alt=""> [Mealz](https://mealz-delta.vercel.app/) - meal planning
 
-v1.1
+v1.2
