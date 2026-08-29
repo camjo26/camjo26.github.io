@@ -6,6 +6,6 @@ layout: default
 
 ## Apps
 
-- [Mealz](mealz/) - meal planning
+- <img class="app-icon" src="assets/icons/mealz.svg" alt=""> [Mealz](https://mealz-delta.vercel.app/) - meal planning
 
 v1.1
