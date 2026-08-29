@@ -8,4 +8,4 @@ layout: default
 
 - [Mealz](mealz/) - meal planning
 
-v1.0
+v1.1
